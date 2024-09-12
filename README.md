@@ -17,7 +17,7 @@ An introduction to programming using a language called Python. Learn how to read
 
 ## Curriculum Ccontent
 
-### [Week 0](/Week%200/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
+### [Week 0] - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
 
 
 ### [Week 1](/Week%201/) - [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
