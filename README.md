@@ -119,3 +119,18 @@ This f is a special indicator for Python to treat this string a special way,
 ### Interactive mode 
 
 - You don’t have to use the text editor window in your compiler to run Python code. Down in your terminal, you can run python alone. You will be presented with >>> in the terminal window. You can then run live, interactive code. You could type 1+1, and it will run that calculation. This mode will not commonly be used during this course.
+
+
+### Integers or int
+
+- In Python, an integer is referred to as an int.
+- The use of int(x) is called “casting,” where a value is temporarily changed from one type of variable (in this case, a string) to another (here, an integer).
+
+### Readability Wins
+
+- When deciding on your approach to a coding task, remember that one could make a reasonable argument for many approaches to the same problem.
+- Regardless of what approach you take to a programming task, remember that your code must be readable. You should use comments to give yourself and others clues about what your code is doing. Further, you should create code in a way that is readable.
+
+### documentation Round
+
+- round(number[n, ndigits]). Those square brackets indicate that something optional can be specified by the programmer. Therefore, you could do round(n) to round a digit to its nearest integer. Alternatively, you could code as follows:
