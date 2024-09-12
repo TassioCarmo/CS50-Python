@@ -32,6 +32,7 @@
 ### Input
 
 - get input from the user
+- It always comes as a string
 
 ```
 input("what is your name")
