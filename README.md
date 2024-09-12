@@ -18,25 +18,8 @@ An introduction to programming using a language called Python. Learn how to read
 ## Curriculum Ccontent
 
 ### [Week 0 -Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
-
-
-### [Week 1](/Week%201/) - [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
-
-### [Week 2](/Week%202/) - [Loops](https://cs50.harvard.edu/python/2022/weeks/2/)
-
-
-### [Week 3](/Week%203/) - [Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/)
-
-
-### [Week 4](/Week%204/) - [Libraries](https://cs50.harvard.edu/python/2022/weeks/4/)
-
-
-### [Week 5](/Week%205/) - [Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/)
-
-### [Week 6](/Week%206/) - [File I/O](https://cs50.harvard.edu/python/2022/weeks/6/)
-
-
-### [Week 7](/Week%207/) - [Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/)
-
-
-### [Week 8](/Week%208/) - [Object-Oriented Programming](https://cs50.harvard.edu/python/2022/weeks/8)
+- [Indoor Voice](https://github.com/TassioCarmo/CS50-Python/tree/main/Week%200%20-%20Functions%2C%20Variables/einstein)
+- Playback Speed
+- Making Faces
+- Einstein
+- Tip Calculator
