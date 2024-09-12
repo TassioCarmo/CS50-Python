@@ -18,8 +18,8 @@ An introduction to programming using a language called Python. Learn how to read
 ## Curriculum Ccontent
 
 ### [Week 0 -Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
-- [Indoor Voice](https://github.com/TassioCarmo/CS50-Python/tree/main/Week%200%20-%20Functions%2C%20Variables/einstein)
-- Playback Speed
-- Making Faces
-- Einstein
+- [Indoor Voice](https://github.com/TassioCarmo/CS50-Python/tree/main/Week%200%20-%20Functions%2C%20Variables/indoor)
+- [Playback Speed]
+- Making Faces(https://github.com/TassioCarmo/CS50-Python/tree/main/Week%200%20-%20Functions%2C%20Variables/playback)
+- [Einstein](https://github.com/TassioCarmo/CS50-Python/tree/main/Week%200%20-%20Functions%2C%20Variables/einstein)
 - Tip Calculator
