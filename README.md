@@ -88,3 +88,28 @@ input("hello ", name )
 the difference between parameters and arguments
 
 when you're talking about what you can pass to a function and what those inputs are called, those are parameters. When you actually use the function and pass in values inside of those parentheses, those inputs, those values are arguments. So we're talking about the exact same thing-- parameters and arguments are effectively the same thing, but the terms you use from looking at the problem from different directions. When we're looking at what the function can take versus what you're actually passing into the function. 
+
+- Looking at this documentation, you’ll learn that the print function automatically includes a piece of code end='\n'. This \n indicates that the print function will automatically create a line break when run. The print function takes an argument called end` and the default is to create a new line.
+
+So to make it not jump a line we do it like this
+
+```
+name = input("What's your name? ")
+print("hello,", end="")
+print(name)
+```
+
+**positional parameters** positional in the sense that the first thing you pass to print gets printed first. The second thing you pass to print after a comma gets printed second. And so forth. 
+
+**named parameters**. Named SEP, separator, or END, E-N-D for the line ending. Those are named parameters because one, they're optional and you can pass them in at the end of your print statement, but you can also use them by name. 
+
+### Formatting Strings
+
+```
+print("hello, \"friend\"")
+```
+
+```
+print(f"hello, {name}")
+```
+This f is a special indicator for Python to treat this string a special way,
