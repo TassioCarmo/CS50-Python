@@ -65,6 +65,19 @@ name = input("what is your name")
 - your intent, a todo list
 - breaks a bigger program down into small bite-sized tasks
 
+```
+# Ask the user for their name
+name = input("What's your name? ")
+
+# Print hello
+print("hello,")
+
+# Print the name inputted
+print(name)
+
+
+```
+
 ### print multiple
 
 - concatenation
