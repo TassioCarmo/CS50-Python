@@ -84,3 +84,7 @@ input("hello ", name )
 ### parameters
 
 - what you can pass to a function and what those inputs are called, those are parameters
+
+the difference between parameters and arguments
+
+when you're talking about what you can pass to a function and what those inputs are called, those are parameters. When you actually use the function and pass in values inside of those parentheses, those inputs, those values are arguments. So we're talking about the exact same thing-- parameters and arguments are effectively the same thing, but the terms you use from looking at the problem from different directions. When we're looking at what the function can take versus what you're actually passing into the function. 
