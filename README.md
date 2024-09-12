@@ -113,3 +113,8 @@ print("hello, \"friend\"")
 print(f"hello, {name}")
 ```
 This f is a special indicator for Python to treat this string a special way,
+
+
+### Interactive mode 
+
+- You don’t have to use the text editor window in your compiler to run Python code. Down in your terminal, you can run python alone. You will be presented with >>> in the terminal window. You can then run live, interactive code. You could type 1+1, and it will run that calculation. This mode will not commonly be used during this course.
