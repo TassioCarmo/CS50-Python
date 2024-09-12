@@ -134,3 +134,84 @@ This f is a special indicator for Python to treat this string a special way,
 ### documentation Round
 
 - round(number[n, ndigits]). Those square brackets indicate that something optional can be specified by the programmer. Therefore, you could do round(n) to round a digit to its nearest integer. Alternatively, you could code as follows:
+
+
+### Functions in python Def 
+
+- def is short for define
+
+```
+def hello():
+    print("hello")
+
+
+name = input("What's your name? ")
+hello()
+print(name)
+
+```
+
+```
+
+# Create our own function
+def hello(to):
+    print("hello,", to)
+
+
+# Output using our own function
+name = input("What's your name? ")
+hello(name)
+```
+
+- If you want the value of this parameter by default, if not provided by the programmer, to be equal to "world," you literally do that in the same line you're defining the function.
+
+```
+# Create our own function
+def hello(to="world"):
+    print("hello,", to)
+
+
+# Output using our own function
+name = input("What's your name? ")
+hello(name)
+
+# Output without passing the expected arguments
+hello()
+```
+
+The following very small modification will call the main function and restore our program to working order:
+```
+def main():
+
+    # Output using our own function
+    name = input("What's your name? ")
+    hello(name)
+
+    # Output without passing the expected arguments
+    hello()
+
+
+# Create our own function
+def hello(to="world"):
+    print("hello,", to)
+
+
+main()
+```
+
+### Returning Values
+
+```
+def main():
+    x = int(input("What's x? "))
+    print("x squared is", square(x))
+
+
+def square(n):
+    return n * n
+
+
+main()
+
+
+```
