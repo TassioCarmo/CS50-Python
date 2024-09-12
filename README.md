@@ -64,8 +64,8 @@ name = input("what is your name")
 
 ### print multiple
 
+- concatenation
 ```
-concatenation
 input("hello " + name)
 ```
 
@@ -74,3 +74,7 @@ input("hello " + name)
 ```
 input("hello ", name )
 ```
+
+### String
+
+- A string, known as a str in Python, is a sequence of text.
