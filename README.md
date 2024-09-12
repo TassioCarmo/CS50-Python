@@ -1,5 +1,7 @@
 # Functions, Variables
 
+- Learn to read a documentation
+
 ## Creating Code with Python
 
 - code hello.py to start coding.
@@ -78,3 +80,7 @@ input("hello ", name )
 ### String
 
 - A string, known as a str in Python, is a sequence of text.
+
+### parameters
+
+- what you can pass to a function and what those inputs are called, those are parameters
